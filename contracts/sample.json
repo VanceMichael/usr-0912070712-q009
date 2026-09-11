@@ -1,10 +1,8 @@
 {
-  "claim": {
-    "claim_id": "c-001",
-    "text": "示例疗效主张",
-    "evidence_refs": [
-      "e-001"
-    ],
-    "rule_version": "r1"
+  "topology": {
+    "version": "topo-1",
+    "region": "west-01",
+    "nodes": ["n1", "n2"],
+    "links": [{"from": "n1", "to": "n2", "capacity": 100}]
   }
 }
