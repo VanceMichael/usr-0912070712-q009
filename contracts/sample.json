@@ -1,0 +1,10 @@
+{
+  "claim": {
+    "claim_id": "c-001",
+    "text": "示例疗效主张",
+    "evidence_refs": [
+      "e-001"
+    ],
+    "rule_version": "r1"
+  }
+}
